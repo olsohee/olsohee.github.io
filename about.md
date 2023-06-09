@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+백엔드 개발자를 향해 공부 중인 학생입니다. java와 spring을 주로 사용합니다. 
 
-### More Information
+### On going 
 
-A place to include any other types of information that you'd like to include about yourself.
+java, spring, jpa ...
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[dlthgml0108@daum.net](mailto:dlthgml0108@daum.net)
